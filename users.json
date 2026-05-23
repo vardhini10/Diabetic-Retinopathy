@@ -1,0 +1,231 @@
+{
+    "users": {
+        "admin": "admin123",
+        "user": "user123",
+        "doctor": "doctor123",
+        "Javeed1234": {
+            "password": "jaya1234",
+            "gender": "Male",
+            "dob": "1982-03-17",
+            "age": 42,
+            "years_diabetes": 5,
+            "level": "moderate"
+        },
+        "pinky143": {
+            "password": "pinky143",
+            "gender": "Male",
+            "dob": "1982-03-18",
+            "age": 42,
+            "years_diabetes": 5,
+            "level": "moderate"
+        },
+        "dolly143": {
+            "password": "dolly143",
+            "gender": "Female",
+            "dob": "1999-04-10",
+            "age": 27,
+            "years_diabetes": 3,
+            "level": "mild"
+        },
+        "cho2143": {
+            "password": "cho2143",
+            "gender": "Male",
+            "dob": "1999-04-16",
+            "age": 28,
+            "years_diabetes": 5,
+            "level": "moderate"
+        },
+        "jayasrijaya": {
+            "password": "jaya123",
+            "gender": "Female",
+            "dob": "1978-03-16",
+            "age": 54,
+            "years_diabetes": 5,
+            "level": "moderate"
+        },
+        "rekha123": {
+            "password": "rekha123",
+            "gender": "Female",
+            "dob": "1996-03-23",
+            "age": 30,
+            "years_diabetes": 5,
+            "level": "mild"
+        },
+        "jayasri987": {
+            "password": "jaya123",
+            "gender": "Female",
+            "dob": "2013-03-20",
+            "age": 32,
+            "years_diabetes": 5,
+            "level": "moderate"
+        },
+        "DonthulaRekha": {
+            "password": "rekha123",
+            "gender": "Female",
+            "dob": "2000-03-08",
+            "age": 26,
+            "years_diabetes": 2,
+            "level": "mild"
+        },
+        "rekhadhonthula": {
+            "password": "rekha143",
+            "gender": "Female",
+            "dob": "2003-08-26",
+            "age": 22,
+            "years_diabetes": 0,
+            "level": "normal"
+        },
+        "manasvi": {
+            "password": "manu123",
+            "gender": "Female",
+            "dob": "1999-08-23",
+            "age": 27,
+            "years_diabetes": 2,
+            "level": "mild"
+        },
+        "jayasrijayasri": {
+            "password": "jaya12",
+            "gender": "Female",
+            "dob": "1999-03-11",
+            "age": 27,
+            "years_diabetes": 2,
+            "level": "mild"
+        },
+        "nandhini": {
+            "password": "nandu123",
+            "gender": "Female",
+            "dob": "2004-03-25",
+            "age": 21,
+            "years_diabetes": 0,
+            "level": "normal"
+        },
+        "jayasri_rallabandi": {
+            "password": "Jaya@123",
+            "first_name": "jayasri",
+            "last_name": "rallabandi",
+            "age": 22,
+            "gender": "Female",
+            "name": "jayasri rallabandi"
+        },
+        "jayasri_rallabandi_1": {
+            "password": "Jaya@123",
+            "first_name": "jayasri",
+            "last_name": "rallabandi",
+            "age": 21,
+            "gender": "Female",
+            "name": "jayasri rallabandi"
+        },
+        "jayasri_rallabandi_2": {
+            "password": "Jaya@123",
+            "first_name": "jayasri",
+            "last_name": "rallabandi",
+            "age": 21,
+            "gender": "Female",
+            "name": "jayasri rallabandi"
+        },
+        "jayasri_rallabandi_3": {
+            "password": "Jaya@123",
+            "first_name": "jayasri",
+            "last_name": "rallabandi",
+            "age": 21,
+            "gender": "Female",
+            "name": "jayasri rallabandi"
+        },
+        "jayasrijaveed": {
+            "password": "Jaya@123",
+            "first_name": "jaya",
+            "last_name": "rallabandi",
+            "age": 22,
+            "gender": "Female",
+            "name": "jaya rallabandi"
+        },
+        "jayasricho2": {
+            "password": "Jaya@123",
+            "first_name": "jaya",
+            "last_name": "rallabandi",
+            "age": 22,
+            "gender": "Female",
+            "name": "jaya rallabandi"
+        },
+        "Jayasrirekha": {
+            "password": "Jaya@123",
+            "first_name": "jayasri",
+            "last_name": "rekha",
+            "age": 36,
+            "gender": "Female",
+            "name": "jayasri rekha"
+        },
+        "vardhini123": {
+            "password": "pinky123",
+            "first_name": "vardhini",
+            "last_name": "kaduduri",
+            "age": 22,
+            "gender": "Female",
+            "name": "vardhini kaduduri"
+        },
+        "nandini123": {
+            "password": "nandu123",
+            "first_name": "nandini",
+            "last_name": "rayaballindi",
+            "age": 24,
+            "gender": "Female",
+            "name": "nandini rayaballindi"
+        },
+        "pinky123": {
+            "password": "Pinky123",
+            "first_name": "vardhini",
+            "last_name": "kaduduri",
+            "age": 22,
+            "gender": "Female",
+            "name": "vardhini kaduduri"
+        },
+        "akshaya": {
+            "password": "dolly123",
+            "first_name": "akshaya",
+            "last_name": "kaduduri",
+            "age": 20,
+            "gender": "Female",
+            "name": "akshaya kaduduri"
+        },
+        "Akshaya": {
+            "password": "akshu123",
+            "first_name": "Akshaya",
+            "last_name": "kaduduri",
+            "age": 20,
+            "gender": "Female",
+            "name": "Akshaya kaduduri"
+        },
+        "pinkuuu": {
+            "password": "gopi1028",
+            "first_name": "pinky",
+            "last_name": "k",
+            "age": 23,
+            "gender": "Female",
+            "name": "pinky k"
+        },
+        "Jaya123": {
+            "password": "Jaya123",
+            "first_name": "jayasri",
+            "last_name": "chary",
+            "age": 22,
+            "gender": "Female",
+            "name": "jayasri chary"
+        },
+        "sana123": {
+            "password": "sana123",
+            "first_name": "sana",
+            "last_name": "assin",
+            "age": 22,
+            "gender": "Female",
+            "name": "sana assin"
+        },
+        "Jaya123456": {
+            "password": "Jayasri@_12",
+            "first_name": "jayasri",
+            "last_name": "jaya",
+            "age": 22,
+            "gender": "Female",
+            "name": "jayasri jaya"
+        }
+    }
+}
